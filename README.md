@@ -1,6 +1,6 @@
-### Hi there 👋, Ousman Abakar
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋,I'm Ousman Abakar
+
+<img src="![image](https://user-images.githubusercontent.com/47245197/157914525-43190b0d-5258-456d-b815-5aab8f2ba985.png)">
 
 <b>I’m a computer engineering student with a strong will to learn new tech.
  I'm a python 🐍 developer. I love working with data, scraping websites, and I can do websites with Flask&Bootstrap.</b>
