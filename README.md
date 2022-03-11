@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ousmanabakar)](https://github.com/anuraghazra/github-readme-stats)
 ### Hi there 👋, Ousman Abakar
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -17,3 +16,5 @@ Skills: PYTHON / FLASK / HTML / CSS /Bootstrap
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/ousmanabakar&show_icons=true)  
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ousmanabakar)](https://github.com/anuraghazra/github-readme-stats)
