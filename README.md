@@ -2,17 +2,17 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I’m a computer engineering student with a strong will to learn new tech. I'm a python 🐍 developer. I love working with data, scraping websites, and I can do websites with Flask&Bootstrap.
+<b>I’m a computer engineering student with a strong will to learn new tech. I'm a python 🐍 developer. I love working with data, scraping websites, and I can do websites with Flask&Bootstrap.</b>
 
 # Skills:
-<ul>
-<li><b>Python developer <b>   ⭐⭐⭐⭐</li> 
-<li> <b>Web scraping<b>        ⭐⭐⭐⭐</li> 
-<li> <b>HTML 5 <b>             ⭐⭐⭐</li> 
+<ul><b>
+<li>Python developer   ⭐⭐⭐⭐</li> 
+<li> Web scraping<b>      ⭐⭐⭐⭐</li> 
+<li> <b>HTML 5 <b>        ⭐⭐⭐</li> 
 <li> CSS 3               ⭐⭐⭐</li> 
 <li> Bootstrap           ⭐⭐⭐</li> 
-<li> <b>Sqlite              ⭐⭐<b></li> 
-</ul>
+<li> Sqlite           ⭐⭐</li> 
+</b></ul>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Machine Learning 
