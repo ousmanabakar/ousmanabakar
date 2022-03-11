@@ -20,3 +20,4 @@ Skills: PYTHON / FLASK / HTML / CSS /Bootstrap
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ousmanabakar)](https://github.com/anuraghazra/github-readme-stats)
+![Profile views](https://gpvc.arturio.dev/ousmanabakar)  
