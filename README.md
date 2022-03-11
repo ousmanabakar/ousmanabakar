@@ -5,14 +5,14 @@
 I’m a computer engineering student with a strong will to learn new tech. I'm a python 🐍 developer. I love working with data, scraping websites, and I can do websites with Flask&Bootstrap.
 
 # Skills:
-
-Python developer    ⭐⭐⭐⭐
-Web scraping        ⭐⭐⭐⭐
-HTML 5              ⭐⭐⭐
-CSS 3               ⭐⭐⭐
-Bootstrap           ⭐⭐⭐
-Sqlite              ⭐⭐
-
+<ul>
+<li> Python developer    ⭐⭐⭐⭐</li> 
+<li> Web scraping        ⭐⭐⭐⭐</li> 
+<li> HTML 5              ⭐⭐⭐</li> 
+<li> CSS 3               ⭐⭐⭐</li> 
+<li> Bootstrap           ⭐⭐⭐</li> 
+<li> Sqlite              ⭐⭐</li> 
+</ul>
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Machine Learning 
