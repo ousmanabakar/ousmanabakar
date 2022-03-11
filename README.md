@@ -6,12 +6,12 @@ I’m a computer engineering student with a strong will to learn new tech. I'm a
 
 # Skills:
 <ul>
-<li> Python developer    ⭐⭐⭐⭐</li> 
-<li> Web scraping        ⭐⭐⭐⭐</li> 
-<li> HTML 5              ⭐⭐⭐</li> 
+<li><b>Python developer <b>   ⭐⭐⭐⭐</li> 
+<li> <b>Web scraping<b>        ⭐⭐⭐⭐</li> 
+<li> <b>HTML 5 <b>             ⭐⭐⭐</li> 
 <li> CSS 3               ⭐⭐⭐</li> 
 <li> Bootstrap           ⭐⭐⭐</li> 
-<li> Sqlite              ⭐⭐</li> 
+<li> <b>Sqlite              ⭐⭐<b></li> 
 </ul>
 
 - 🔭 I’m currently working on this page. 
