@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/47245197/157914525-43190b0d-5258-456d-b815-5aab8f2ba985.png" widht=400, height=300>
 
 <b>I’m a computer engineering student with a strong will to learn new tech.
- I'm a python 🐍 developer. I love working with data, scraping websites, and I can do websites with Flask&Bootstrap.</b>
+ I'm a Python 🐍 developer. I love working with data and scraping websites, and I can do websites with Flask&Bootstrap.</b>
 
 # Skills:
 
