@@ -2,7 +2,7 @@
 
 
 
-<b>𝗣𝘆𝘁𝗵𝗼𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗪𝗲𝗯 𝗦𝗰𝗿𝗮𝗽𝗶𝗻𝗴 & 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗘𝘅𝗽𝗲𝗿𝘁 | Leads Generation</b>
+## 𝗣𝘆𝘁𝗵𝗼𝗻 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 | 𝗪𝗲𝗯 𝗦𝗰𝗿𝗮𝗽𝗶𝗻𝗴 & 𝗗𝗮𝘁𝗮 𝗘𝘅𝘁𝗿𝗮𝗰𝘁𝗶𝗼𝗻 𝗘𝘅𝗽𝗲𝗿𝘁 | Leads Generation
 
 Hi there! I’m a skilled Python Developer and Top-Rated Freelancer with over 𝒇𝒐𝒖𝒓 𝒚𝒆𝒂𝒓𝒔 of experience specializing in web scraping and data extraction. I have completed over 30 𝒋𝒐𝒃𝒔 and consistently earn 5-𝒔𝒕𝒂𝒓 𝒓𝒂𝒕𝒊𝒏𝒈𝒔 by delivering quick, 𝒉𝒊𝒈𝒉-𝒒𝒖𝒂𝒍𝒊𝒕𝒚 results that drive accuracy and insights for businesses.</b>
 <br>
