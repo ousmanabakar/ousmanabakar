@@ -26,7 +26,7 @@ Hi there! Iâ€™m a skilled Python Developer and Top-Rated Freelancer with over ğ
 
 
  # Get In Touch:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/ousmanabakar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ousman-abakar-hamid-726721166/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://ousmanabakar.github.io/cv/#about)  
+[<img src='https://cdn.worldvectorlogo.com/logos/upwork.svg' alt='github' height='30'>](https://www.upwork.com/freelancers/webscrapingexperte)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ousman-abakar-hamid-726721166/)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Apify-logo.svg/2560px-Apify-logo.svg.png' alt='website' height='40'>](https://apify.com/scrapingxpert)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ousmanabakar&show_icons=true&theme=gruvbox)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ousmanabakar&langs_count=8)](https://github.com/ousmanabakar/github-readme-stats)
